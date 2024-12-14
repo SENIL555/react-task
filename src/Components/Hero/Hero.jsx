@@ -1,6 +1,7 @@
 import React from 'react'
 import './Hero.css'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
+
 function Hero() {
   return (
     <div id='home' className='hero'>
